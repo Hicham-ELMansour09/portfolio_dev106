@@ -1,28 +1,6 @@
-/* ==========================================================================
-   Hicham El-Mansour — Developer Portfolio
-   Table of contents:
-     1. Variables
-     2. Reset
-     3. Typography
-     4. Layout
-     5. Components
-        5.1 Buttons
-        5.2 Header / Nav
-        5.3 Hero
-        5.4 Profile image + modal
-        5.5 Skills (3D floating card gallery)
-        5.6 Contact
-        5.7 Footer
-     6. Utilities
-     7. Responsive
-
-   Note: the About and Projects sections are currently empty placeholders in
-   index.html, so no section-specific rules exist for them here.
-   ========================================================================== */
-
-/* ---------- 1. Variables ---------- */
+  /* Hicham El-Mansour */
 :root {
-  /* Global background (single source of truth — see section 4) */
+
   --background-color: #D9E3F2;
 
   --primary: #7e8993;
